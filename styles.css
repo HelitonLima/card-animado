@@ -41,7 +41,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 200px;
-    background-image: url('/assets/Evelynn.jpg');
+    background-image: url('./assets/Evelynn.jpg');
     background-size: cover;
     background-position: center;
     transition: all .5s;
